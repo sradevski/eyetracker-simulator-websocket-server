@@ -1,0 +1,9 @@
+{
+  "name": "stevche.radevski.eyeNav.eyetracker-simulator",
+  "title": "Simulator used for testing EyeNav",
+  "description": "eyetracker-simulator is a simulator used to test EyeNav, a Brackets.io extension for navigating source code using your eyes.",
+  "homepage": "https://github.com/sradevski/eyenav",
+  "version": "1.0.0",
+  "author": "Stevche Radevski (https://github.com/sradevski)",
+  "license": "MIT"
+}
