@@ -5,5 +5,8 @@
   "homepage": "https://github.com/sradevski/eyenav",
   "version": "1.0.0",
   "author": "Stevche Radevski (https://github.com/sradevski)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.1.0"
+  }
 }
